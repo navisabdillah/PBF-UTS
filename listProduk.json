@@ -1,0 +1,88 @@
+{
+    "barang": [
+      {
+        "userId": 1,
+        "id": 1,
+        "nama": "Rendang",
+        "image": "https://cdn-2.tstatic.net/tribunnews/foto/bank/images/resep-rendang.jpg",
+        "harga": 10000,
+        "stok": 7
+      },
+      {
+        "userId": 1,
+        "id": 2,
+        "nama": "Ayam Pop",
+        "image": "https://www.masakapahariini.com/wp-content/uploads/2018/06/AYAM-POP-FINAL-DISH.jpg",
+        "harga": 20000 ,
+        "stok": 19
+      },
+      {
+        "userId": 1,
+        "id": 3,
+        "nama": "Ayam Bakar",
+        "image": "https://www.resepistimewa.com/wp-content/uploads/cara-membuat-ayam-bakar-kecap.jpg",
+        "harga": 15000,
+        "stok": 5
+      },
+      {
+        "userId": 1,
+        "id": 4,
+        "nama": "Ayam Goreng ",
+        "image": "https://selerasa.com/wp-content/uploads/2015/12/images_daging_ayam-goreng-1200x720.jpg",
+        "harga": 10000,
+        "stok": 7
+      },
+      {
+        "userId": 1,
+        "id": 5,
+        "nama": "Ikan Bakar ",
+        "image": "https://asset.kompas.com/crops/kfOxHIz66v4BBpmhrxrq3JXosCA=/0x0:1000x667/780x390/data/photo/2020/12/17/5fdb3cd0c1525.jpg",
+        "harga": 20000,
+        "stok": 20
+      },
+      {
+        "userId": 1,
+        "id": 6,
+        "nama": "Sate Padang",
+        "image": "https://awsimages.detik.net.id/community/media/visual/2020/03/07/6c3ad313-59a2-42aa-8c50-f8e6cdfdb039_169.jpeg?w=700&q=90",
+        "harga": 15000,
+        "stok": 4
+      },
+      {
+        "userId": 1,
+        "id": 7,
+        "nama": "Ayam Gulai ",
+        "image": "https://awsimages.detik.net.id/community/media/visual/2021/08/30/resep-gulai-ayam-rumah-makan-padang_43.jpeg?w=1200",
+        "harga": 15000,
+        "stok": 3
+      },
+      {
+        "userId": 1,
+        "id": 8,
+        "nama": "Tongkol Asam Pedas ",
+        "image": "https://awsimages.detik.net.id/community/media/visual/2021/06/22/resep-asam-padeh-ikan-tongkol_43.jpeg?w=1200",
+        "harga": 12000,
+        "stok": 12
+      },
+      {
+        "userId": 1,
+        "id": 9,
+        "nama": "Sayur Nangka ",
+        "image": "https://img-global.cpcdn.com/recipes/612b5bc72d5961b9/1200x630cq70/photo.jpg",
+        "harga": 10000,
+        "stok": 9
+      },
+      {
+        "userId": 1,
+        "id": 10,
+        "nama": "Tumis Pare",
+        "image": "https://resepkoki.id/wp-content/uploads/2017/05/Resep-Tumis-pare.jpg",
+        "harga": 13000,
+        "stok": 6
+      }
+      
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
