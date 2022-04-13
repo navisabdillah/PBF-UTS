@@ -1,0 +1,63 @@
+{
+  "cart": [
+    {
+      "userId": 1,
+      "id": 1616947501387,
+      "nama": "Rendang",
+      "harga": 10000,
+      "total_qty": 2,
+      "total_harga": 20000
+    },
+    {
+      "userId": 1,
+      "id": 1617197805128,
+      "nama": "Ayam Pop",
+      "harga": 20000,
+      "total_qty": 1,
+      "total_harga": 20000
+    },
+    {
+      "userId": 1,
+      "id": 1617197855993,
+      "nama": "Ayam Bakar",
+      "harga": 15000,
+      "total_qty": 1,
+      "total_harga": 15000
+    },
+    {
+      "userId": 1,
+      "id": 1617198208009,
+      "nama": "Ayam Goreng",
+      "harga": 10000,
+      "total_qty": 2,
+      "total_harga": 20000
+    },
+    {
+      "userId": 3,
+      "id": 1617203357131,
+      "nama": "Ikan Bakar",
+      "harga": 20000,
+      "total_qty": 5,
+      "total_harga": 100000
+    },
+    {
+      "userId": 1,
+      "id": 1649745626426,
+      "nama": "Sate Padang",
+      "harga": 15000,
+      "total_qty": "1",
+      "total_harga": 15000
+    },
+    {
+      "userId": 1,
+      "id": 1649751823717,
+      "nama": "Rendang",
+      "harga": 10000,
+      "total_qty": "1",
+      "total_harga": 10000
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
